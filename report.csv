@@ -1,0 +1,4 @@
+domain,notBefore,notAfter,remaining,exception
+stackoverflow.com,Nov 24 07:00:29 2019 GMT,Feb 22 07:00:29 2020 GMT,45,
+nginx.com,Nov  7 15:41:56 2019 GMT,Feb  5 15:41:56 2020 GMT,29,
+github.com,May  8 00:00:00 2018 GMT,Jun  3 12:00:00 2020 GMT,148,

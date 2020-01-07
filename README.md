@@ -5,5 +5,7 @@ Our team (system) are control serveral domains and include SSL certificate. So w
 ```sh
 1. Import list domains need to check to config file
 2. Do check SSL certificate 
-3. Use Zabbix API create item and trigger for these doamin.
+3. Use Zabbix API create item and trigger for these doamin. (TODO)
 ```
+## RESULT
+![alt text](https://github.com/hungdnv9/Python-Check-SSL-Certificate/blob/master/images/output.png)
